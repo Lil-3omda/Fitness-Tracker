@@ -8,6 +8,8 @@ Fitness Tracker Mobile Application
  2.   Step Counter: Monitor your daily activity levels by tracking the number of steps taken, helping you stay motivated and achieve fitness goals.
 
  3.   Food Recognition: Capture images of your meals to instantly recognize food items and access detailed nutritional information, aiding in making informed dietary choices.
+   **API USE OF THIS MODEL  -> https://huggingface.co/nateraw/food
+   **THIS MODEL IS BETTER BUT PAID  -> https://www.passio.ai/nutrition-ai
 
  4.   Medical Tracker:
 
