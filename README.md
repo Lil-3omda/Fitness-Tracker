@@ -14,7 +14,7 @@ Fitness Tracker Mobile Application
 ----
 ## ui Design
 - Main Card
-<img src="https://github.com/Lil-3omda/Fitness-Tracker/assets/60264235/2c192a5d-0cbf-4fd7-b59a-fc5c588510c4" alt="" width="200" height="200">
+<img src="https://github.com/Lil-3omda/Fitness-Tracker/assets/60264235/2c192a5d-0cbf-4fd7-b59a-fc5c588510c4" alt="" width="300" height="400">
 
 - BMI
 ![Screenshot_20240512_021445vf](https://github.com/Lil-3omda/Fitness-Tracker/assets/60264235/c7844b4a-084d-4327-bab9-72be8d188c04)
