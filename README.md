@@ -14,7 +14,8 @@ Fitness Tracker Mobile Application
 ----
 ## ui Design
 - Main Card
-##![Screenshot_20240512_021334](https://github.com/Lil-3omda/Fitness-Tracker/assets/60264235/2c192a5d-0cbf-4fd7-b59a-fc5c588510c4)
+- <img src="![Screenshot_20240512_021334](https://github.com/Lil-3omda/Fitness-Tracker/assets/60264235/2c192a5d-0cbf-4fd7-b59a-fc5c588510c4)" alt="" width="200" height="200">
+
 - BMI
 ![Screenshot_20240512_021445vf](https://github.com/Lil-3omda/Fitness-Tracker/assets/60264235/c7844b4a-084d-4327-bab9-72be8d188c04)
 - Step Counter
@@ -24,4 +25,4 @@ Fitness Tracker Mobile Application
 ![Screenshot_20240512_021553](https://github.com/Lil-3omda/Fitness-Tracker/assets/60264235/790e30cb-2723-4376-9d62-7c8e9000be0e)
 ![Screenshot_20240512_021618](https://github.com/Lil-3omda/Fitness-Tracker/assets/60264235/35ea1de3-9cb8-4d13-9440-4911bdda7303)
 - Medical Tracker
-##![Screenshot_20240512_021636](https://github.com/Lil-3omda/Fitness-Tracker/assets/60264235/becdd985-cec4-43fe-9a3f-5ce53af74387)
+![Screenshot_20240512_021636](https://github.com/Lil-3omda/Fitness-Tracker/assets/60264235/becdd985-cec4-43fe-9a3f-5ce53af74387)
