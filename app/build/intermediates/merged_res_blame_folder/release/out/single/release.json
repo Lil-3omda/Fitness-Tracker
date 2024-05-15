@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitessapp-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/drawable_medicalcare.png.flat",
+        "source": "com.example.fitessapp-main-33:/drawable/medicalcare.png"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/drawable_personaltraining.png.flat",
+        "source": "com.example.fitessapp-main-33:/drawable/personaltraining.png"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.fitessapp-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/layout_activity_card.xml.flat",
+        "source": "com.example.fitessapp-main-33:/layout/activity_card.xml"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitessapp-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.fitessapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitessapp-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitessapp-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitessapp-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitessapp-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.fitessapp-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitessapp-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/drawable_fitnesstracker.png.flat",
+        "source": "com.example.fitessapp-main-33:/drawable/fitnesstracker.png"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/drawable_activitytracking.png.flat",
+        "source": "com.example.fitessapp-main-33:/drawable/activitytracking.png"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.fitessapp-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitessapp-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/drawable_workout.png.flat",
+        "source": "com.example.fitessapp-main-33:/drawable/workout.png"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.fitessapp-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/layout_activity_bmiactivity.xml.flat",
+        "source": "com.example.fitessapp-main-33:/layout/activity_bmiactivity.xml"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/drawable_runnerstart.png.flat",
+        "source": "com.example.fitessapp-main-33:/drawable/runnerstart.png"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.fitessapp-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitessapp-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/layout_activity_pedo_sensor.xml.flat",
+        "source": "com.example.fitessapp-main-33:/layout/activity_pedo_sensor.xml"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/drawable_jogging.png.flat",
+        "source": "com.example.fitessapp-main-33:/drawable/jogging.png"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitessapp-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/drawable_biking.png.flat",
+        "source": "com.example.fitessapp-main-33:/drawable/biking.png"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/drawable_lifestyle.png.flat",
+        "source": "com.example.fitessapp-main-33:/drawable/lifestyle.png"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.fitessapp-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-32:/drawable_fitnessstats.png.flat",
+        "source": "com.example.fitessapp-main-33:/drawable/fitnessstats.png"
+    }
+]

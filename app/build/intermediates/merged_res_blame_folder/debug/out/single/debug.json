@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_runnerstart.png.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\runnerstart.png"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_fitnessstats.png.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\fitnessstats.png"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\layout_activity_display_food_info.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\layout\\activity_display_food_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\layout_activity_medicine.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\layout\\activity_medicine.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_workout.png.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\workout.png"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\layout_activity_food_recognition.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\layout\\activity_food_recognition.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_diet.png.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\diet.png"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_jogging.png.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\jogging.png"
+    },
+    {
+        "merged": "com.example.fitessapp-merged_res-39:/layout_activity_medicine.xml.flat",
+        "source": "com.example.fitessapp-main-41:/layout/activity_medicine.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_fitnesstracker.png.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\fitnesstracker.png"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_medicalcare.png.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\medicalcare.png"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\layout_activity_pedo_sensor.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\layout\\activity_pedo_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_biking.png.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\biking.png"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\layout_activity_bmiactivity.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\layout\\activity_bmiactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_activitytracking.png.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\activitytracking.png"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\layout_reminder_item.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\layout\\reminder_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_personaltraining.png.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\personaltraining.png"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\layout_activity_card.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\layout\\activity_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\drawable_lifestyle.png.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\drawable\\lifestyle.png"
+    },
+    {
+        "merged": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-merged_res-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\CompUprint\\.gradle\\daemon\\8.2\\com.example.fitessapp-main-41:\\layout\\activity_main.xml"
+    }
+]
